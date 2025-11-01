@@ -113,7 +113,6 @@ Body Fat % = 495 / (1.29579 - 0.35004 × log10(waist + hip - neck) + 0.22100 × 
 
 ## 👤 Author
 
-**Your Name**
 - GitHub: [@kanizadev](https://github.com/kanizadev)
 
 ## 🙏 Acknowledgments
