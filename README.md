@@ -4,7 +4,7 @@ A beautiful, modern Flutter application for calculating Body Mass Index (BMI) an
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=for-the-badge)
+
 
 ## ✨ Features
 
@@ -37,41 +37,6 @@ A beautiful, modern Flutter application for calculating Body Mass Index (BMI) an
 - **Real-time Validation** - Instant feedback on input
 - **Reset Functionality** - Quick clear all fields
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Flutter SDK (3.0 or higher)
-- Dart SDK (3.0 or higher)
-- An IDE (VS Code, Android Studio, or IntelliJ IDEA)
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/advanced-bmi-calculator.git
-   cd advanced-bmi-calculator
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Run the app**
-   ```bash
-   # For Windows
-   flutter run -d windows
-   
-   # For Android
-   flutter run -d android
-   
-   # For iOS
-   flutter run -d ios
-   
-   # For Web
-   flutter run -d chrome
-   ```
 
 ## 📱 Supported Platforms
 
@@ -81,13 +46,6 @@ A beautiful, modern Flutter application for calculating Body Mass Index (BMI) an
 - ✅ Windows
 - ✅ macOS
 - ✅ Linux
-
-## 🏗️ Built With
-
-- **[Flutter](https://flutter.dev/)** - UI framework
-- **[Dart](https://dart.dev/)** - Programming language
-- **[Google Fonts](https://pub.dev/packages/google_fonts)** - Comic Neue font family
-- **[Material Design 3](https://m3.material.io/)** - Design system
 
 ## 📖 How to Use
 
@@ -151,43 +109,12 @@ Body Fat % = 495 / (1.29579 - 0.35004 × log10(waist + hip - neck) + 0.22100 × 
 - **Accent**: Deep Sage (#8A9A5B)
 - **Text**: Dark Gray (#000000DE)
 
-## 🛠️ Project Structure
 
-```
-lib/
-├── main.dart                 # Main application file
-│   ├── MyApp                 # Root widget
-│   ├── BMICalculatorApp      # Main calculator screen
-│   ├── GlassCard            # Reusable glassmorphism widget
-│   └── Helper methods        # Calculation and UI helpers
-│
-├── android/                  # Android specific files
-├── ios/                      # iOS specific files
-├── web/                      # Web specific files
-├── windows/                  # Windows specific files
-├── macos/                    # macOS specific files
-└── linux/                    # Linux specific files
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@kanizadev](https://github.com/kanizadev)
 
 ## 🙏 Acknowledgments
 
@@ -199,22 +126,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📸 Screenshots
 
 *Add your app screenshots here*
-
-## 🐛 Known Issues
-
-- Windows build requires Developer Mode enabled for symlink support
-- Some older Android devices may experience slight performance issues with glassmorphism effects
-
-## 🔮 Future Enhancements
-
-- [ ] Multi-language support
-- [ ] Dark mode theme
-- [ ] Save and track progress over time
-- [ ] Export reports as PDF
-- [ ] Integration with fitness apps
-- [ ] Additional body measurements
-- [ ] Custom health goals setting
-- [ ] Cloud sync across devices
 
 ## 💡 Tips
 
